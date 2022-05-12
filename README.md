@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jmalawka/jmalawka/main/img/banner.png" alt="Image with text 'Jakub Malawka' 'a software developer'">
+<img src="https://raw.githubusercontent.com/jmalawka/jmalawka/main/img/banner@2x.png" alt="Image with text 'Jakub Malawka' 'a software developer'">
 
 5+ Years of experience in software development, including:
 * *A bit of* Machine learning,
