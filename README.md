@@ -12,6 +12,9 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 <a href="https://github.com/jmalawka">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmalawka&show_icons=true&theme=dark" />
 </a>
+
 <a href="https://github.com/jmalawka">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmalawka&show_icons=true&theme=dark" />
 </a>
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=fzg7ta1ktbqu1id4it5o0qoj6&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
