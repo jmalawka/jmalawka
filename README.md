@@ -13,5 +13,5 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmalawka&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/jmalawka">
-  <img src="https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmalawka&show_icons=true&theme=dark" />
 </a>
